@@ -13,4 +13,3 @@ In R_ensemble2.R summarizing made by methods GBM and  Logistic regression
 В файле R_ensemble.R обобщения выполнены методами среднего, взвешенного среднего и голосования большинства.
 В файле R_ensemble2.R обобщения выполнены методами GBM и  Logistic regression.
 
-https://static.analyticsvidhya.com/wp-content/uploads/2017/02/14170050/Image71.png
